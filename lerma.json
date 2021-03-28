@@ -1,0 +1,1218 @@
+{
+    "products": [
+        {
+            "id": "AB01",
+            "name": "McCormick, Mermelada, 165 gramos",
+            "price": 29.81
+        },
+        {
+            "id": "AB02",
+            "name": "Herdez Atún en Aceite, 295 g",
+            "price": 36.82
+        },
+        {
+            "id": "AB03",
+            "name": "Maggi, Hojas sazonadoras, 4 piezas",
+            "price": 11.36
+        },
+        {
+            "id": "AB04",
+            "name": "Nescafe, Café soluble, 120 gramos",
+            "price": 59
+        },
+        {
+            "id": "AB05",
+            "name": "Morama Harina de Almendra, 350 g",
+            "price": 190
+        },
+        {
+            "id": "AB06",
+            "name": "Boing Boing Jugo sabor Mango de 1 Lt",
+            "price": 13.5
+        },
+        {
+            "id": "AB07",
+            "name": "Gatorade Gatorade sabor Ponche De Frutas de 1 Lt",
+            "price": 16.3
+        },
+        {
+            "id": "AB08",
+            "name": "Peñafiel Refresco Sabor Limonada, 600 ml",
+            "price": 10.7
+        },
+        {
+            "id": "AB09",
+            "name": "Lala Leche UHT Entera con Tapa, 1.5 L, 10 Piezas",
+            "price": 294
+        },
+        {
+            "id": "AB10",
+            "name": "Bonafont Agua Natural De 1.5Lt",
+            "price": 9.5
+        },
+        {
+            "id": "L01",
+            "name": "Mastering Bitcoin: Programming the Open Blockchain",
+            "price": 714.33
+        },
+        {
+            "id": "L02",
+            "name": "Los Secretos De La Mente Millonaria: Cómo dominar el juego interior de la riqueza",
+            "price": 189
+        },
+        {
+            "id": "L03",
+            "name": "Sidi",
+            "price": 274.9
+        },
+        {
+            "id": "L04",
+            "name": "Pragmatismo",
+            "price": 236.71
+        },
+        {
+            "id": "L05",
+            "name": "El cerebro del futuro",
+            "price": 349
+        },
+        {
+            "id": "L06",
+            "name": "Pelea de gallos",
+            "price": 318
+        },
+        {
+            "id": "L07",
+            "name": "Permanent Record",
+            "price": 353.5
+        },
+        {
+            "id": "L08",
+            "name": "Muchas vidas, muchos maestros",
+            "price": 169
+        },
+        {
+            "id": "L09",
+            "name": "De animales a dioses: Breve historia de la humanidad",
+            "price": 349
+        },
+        {
+            "id": "L10",
+            "name": "Pedro Páramo",
+            "price": 108
+        },
+        {
+            "id": "E01",
+            "name": "Dell NOTEBOOK_COMPUTER, 14'', Intel core_i5 3.1GHz, 8GB, 1000GB, Windows 10",
+            "price": 13364.78
+        },
+        {
+            "id": "E02",
+            "name": "BenQ PD2700QT Monitor 27'' LCD, 2560 x 1440, 1 x HDMI, 3 x USB",
+            "price": 9198.8
+        },
+        {
+            "id": "E03",
+            "name": "Consola Nintendo Switch - Edición Estándar - Importado - Neón Rojo/Azul",
+            "price": 6988
+        },
+        {
+            "id": "E04",
+            "name": "Epson Impresora multifuncional EcoTank L4150",
+            "price": 3599
+        },
+        {
+            "id": "E05",
+            "name": "Seagate STEA2000400 Expansion - Disco duro externo portátil USB 3.0 de 2TB",
+            "price": 1431.98
+        },
+        {
+            "id": "E06",
+            "name": "Koblenz 00-1582-6 Regulador Negro, Oficina, 1400 VA, 600 W",
+            "price": 323
+        },
+        {
+            "id": "E07",
+            "name": "Logitech Mouse para Gaming G502 Hero, 16000DPI, 11 Botones, color Negro",
+            "price": 798.98
+        },
+        {
+            "id": "E08",
+            "name": "Nikon Cámara Reflex D5600 conlente AF-P DX Nikkor 18-55mm f/3.5-5.6G VR",
+            "price": 14293.04
+        },
+        {
+            "id": "E09",
+            "name": "Xiaomi Mi Box S MDZ-22-AB Dispositivo en Tiempo Real",
+            "price": 1322
+        },
+        {
+            "id": "E10",
+            "name": "GoPro Bundle HERO7 Black + Shorty con Batería Recargable, Cable USB C.7",
+            "price": 7399
+        },
+        {
+            "id": "HC01",
+            "name": "Redlemon Lámpara de Luna en Impresión 3D Réplica Exacta Recargable",
+            "price": 299
+        },
+        {
+            "id": "HC02",
+            "name": "Spring Air Protector de Colchón Supreme Comfort, Impermeable, Tamaño Individual",
+            "price": 390
+        },
+        {
+            "id": "HC03",
+            "name": "Rubbermaid Brilliance Contenedor de almacenamiento de alimentos",
+            "price": 364.31
+        },
+        {
+            "id": "HC04",
+            "name": "Redlemon Termo de Acero Inoxidable con Aislamiento Térmico para Agua Fría o Caliente",
+            "price": 349
+        },
+        {
+            "id": "HC05",
+            "name": "Koblenz Titanium Aspiradora, 1700 Watts, Golden Editions",
+            "price": 2449
+        },
+        {
+            "id": "HC06",
+            "name": "Prensa para picar ajo con doble cuchilla",
+            "price": 185
+        },
+        {
+            "id": "HC07",
+            "name": "Birtman BT-45 - Ventilador de Torre con Ionizador y Control Remoto, Negro, 45''",
+            "price": 1611.36
+        },
+        {
+            "id": "HC08",
+            "name": "iRobot BRAAVA 380T Robot Trapeador, Color Negro",
+            "price": 5689
+        },
+        {
+            "id": "HC09",
+            "name": "Daewoo KOR-667DW Horno de Microonda",
+            "price": 959.31
+        },
+        {
+            "id": "HC10",
+            "name": "Refrigerador Hisense RR63D6WBX 6.3 Pies Control Temperatura Semi Automático-Negro",
+            "price": 6117.01
+        },
+        {
+            "id": "D01",
+            "name": "Rollerface Set de Protectores y Casco",
+            "price": 886.65
+        },
+        {
+            "id": "D02",
+            "name": "CENTURFIT Caminadora Eléctrica Plegable Uso Rudo Excelente Calidad Gimnasio",
+            "price": 4599
+        },
+        {
+            "id": "D03",
+            "name": "CAP Barbell Chaleco Ajustable con Peso, 9 kg",
+            "price": 858.01
+        },
+        {
+            "id": "D04",
+            "name": "Adidas 2018-2019 World Cup Supporters Football (White)",
+            "price": 438
+        },
+        {
+            "id": "D05",
+            "name": "WILSON NFL MVP Junior Football with Pump and tee, Brown",
+            "price": 298.06
+        },
+        {
+            "id": "D06",
+            "name": "Battle Guantes Ultra adheribles para Receptor de fútbol Americano",
+            "price": 441.45
+        },
+        {
+            "id": "D07",
+            "name": "AutoWT Bomba de Aire para Bicicleta pequeña",
+            "price": 169.99
+        },
+        {
+            "id": "D08",
+            "name": "Xiaomi Mi QiCYCLE Electric Bicicleta Plegable",
+            "price": 19999
+        },
+        {
+            "id": "D09",
+            "name": "Master Lock 8143D Cerradura de cable autobobinado 4 pies x5/16''",
+            "price": 135
+        },
+        {
+            "id": "D10",
+            "name": "Polar Bottle Kids Insulated Water Bottle",
+            "price": 187.79
+        }
+    ],
+    "users": [
+        {
+            "email": "ANGEL.DURAN@lerma.com",
+            "name": "ANGEL DURAN",
+            "password": "ANDU073",
+            "purchase": [
+                {
+                    "10/05/20 21:32:44": [
+                        {
+                            "id": "AB02",
+                            "units": 8
+                        },
+                        {
+                            "id": "AB06",
+                            "units": 5
+                        },
+                        {
+                            "id": "AB10",
+                            "units": 7
+                        }
+                    ]
+                },
+                {
+                    "10/05/20 21:43:31": [
+                        {
+                            "id": "L04",
+                            "units": 8
+                        },
+                        {
+                            "id": "E03",
+                            "units": 3
+                        },
+                        {
+                            "id": "E02",
+                            "units": 1
+                        }
+                    ]
+                },
+                {
+                    "10/05/20 21:54:29": [
+                        {
+                            "id": "AB01",
+                            "units": 5
+                        },
+                        {
+                            "id": "L02",
+                            "units": 4
+                        },
+                        {
+                            "id": "D02",
+                            "units": 9
+                        }
+                    ]
+                },
+                {
+                    "10/05/20 22:07:41": [
+                        {
+                            "id": "L07",
+                            "units": 3
+                        },
+                        {
+                            "id": "L06",
+                            "units": 7
+                        },
+                        {
+                            "id": "E09",
+                            "units": 6
+                        }
+                    ]
+                },
+                {
+                    "11/05/20 11:02:26": [
+                        {
+                            "id": "AB06",
+                            "units": 8
+                        },
+                        {
+                            "id": "E02",
+                            "units": 5
+                        },
+                        {
+                            "id": "AB02",
+                            "units": 2
+                        },
+                        {
+                            "id": "HC03",
+                            "units": 7
+                        }
+                    ]
+                },
+                {
+                    "01/09/20 00:22:37": [
+                        {
+                            "id": "AB10",
+                            "units": 4
+                        }
+                    ]
+                },
+                {
+                    "03/11/20 18:50:50": [
+                        {
+                            "id": "AB01",
+                            "units": 3
+                        },
+                        {
+                            "id": "AB07",
+                            "units": 2
+                        },
+                        {
+                            "id": "D10",
+                            "units": 5
+                        }
+                    ]
+                },
+                {
+                    "03/11/20 18:52:13": [
+                        {
+                            "id": "AB03",
+                            "units": 5
+                        },
+                        {
+                            "id": "AB04",
+                            "units": 7
+                        }
+                    ]
+                },
+                {
+                    "03/11/20 18:58:29": [
+                        {
+                            "id": "D09",
+                            "units": 15
+                        },
+                        {
+                            "id": "D08",
+                            "units": 4
+                        }
+                    ]
+                },
+                {
+                    "03/11/20 19:22:29": [
+                        {
+                            "id": "L01",
+                            "units": 3
+                        },
+                        {
+                            "id": "E01",
+                            "units": 1
+                        }
+                    ]
+                },
+                {
+                    "17/11/20 20:57:57": [
+                        {
+                            "id": "AB01",
+                            "units": 1
+                        },
+                        {
+                            "id": "AB07",
+                            "units": 1
+                        }
+                    ]
+                },
+                {
+                    "29/11/20 20:48:18": [
+                        {
+                            "id": "AB01",
+                            "units": 2
+                        },
+                        {
+                            "id": "AB02",
+                            "units": 2
+                        }
+                    ]
+                },
+                {
+                    "29/11/20 21:43:40": [
+                        {
+                            "id": "AB06",
+                            "units": 34
+                        },
+                        {
+                            "id": "AB04",
+                            "units": 6
+                        },
+                        {
+                            "id": "L09",
+                            "units": 2
+                        },
+                        {
+                            "id": "E03",
+                            "units": 3
+                        },
+                        {
+                            "id": "D05",
+                            "units": 4
+                        }
+                    ]
+                },
+                {
+                    "29/11/20 22:05:04": [
+                        {
+                            "id": "AB10",
+                            "units": 5
+                        },
+                        {
+                            "id": "D01",
+                            "units": 5
+                        },
+                        {
+                            "id": "D04",
+                            "units": 3
+                        }
+                    ]
+                },
+                {
+                    "07/12/2020 22:29:18": [
+                        {
+                            "Cantidad": 1,
+                            "id": "AB01"
+                        },
+                        {
+                            "Cantidad": 1,
+                            "id": "E07"
+                        },
+                        {
+                            "Cantidad": 1,
+                            "id": "HC07"
+                        },
+                        {
+                            "Cantidad": 1,
+                            "id": "D09"
+                        }
+                    ]
+                },
+                {
+                    "07/12/2020 22:36:51": [
+                        {
+                            "Cantidad": 1,
+                            "id": "AB01"
+                        },
+                        {
+                            "Cantidad": 1,
+                            "id": "AB02"
+                        },
+                        {
+                            "Cantidad": 1,
+                            "id": "AB03"
+                        },
+                        {
+                            "Cantidad": 1,
+                            "id": "D01"
+                        },
+                        {
+                            "Cantidad": 1,
+                            "id": "D08"
+                        }
+                    ]
+                },
+                {
+                    "07/12/2020 22:38:13": [
+                        {
+                            "Cantidad": 1,
+                            "id": "AB01"
+                        },
+                        {
+                            "Cantidad": 1,
+                            "id": "AB02"
+                        },
+                        {
+                            "Cantidad": 1,
+                            "id": "AB03"
+                        },
+                        {
+                            "Cantidad": 1,
+                            "id": "L07"
+                        }
+                    ]
+                },
+                {
+                    "07/12/2020 23:11:07": [
+                        {
+                            "Cantidad": 1,
+                            "id": "AB01"
+                        },
+                        {
+                            "Cantidad": 1,
+                            "id": "L01"
+                        },
+                        {
+                            "Cantidad": 1,
+                            "id": "HC06"
+                        },
+                        {
+                            "Cantidad": 1,
+                            "id": "D09"
+                        }
+                    ]
+                },
+                {
+                    "07/12/2020 23:11:43": [
+                        {
+                            "Cantidad": 1,
+                            "id": "AB02"
+                        },
+                        {
+                            "Cantidad": 1,
+                            "id": "E10"
+                        },
+                        {
+                            "Cantidad": 1,
+                            "id": "D03"
+                        }
+                    ]
+                },
+                {
+                    "08/12/2020 10:22:57": [
+                        {
+                            "Cantidad": 1,
+                            "id": "AB01"
+                        },
+                        {
+                            "Cantidad": 1,
+                            "id": "D02"
+                        },
+                        {
+                            "Cantidad": 1,
+                            "id": "HC09"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "email": "DIANA.ROBLES@lerma.com",
+            "name": "DIANA ROBLES",
+            "password": "DIRO055",
+            "purchase": [
+                {
+                    "10/05/20 21:34:09": [
+                        {
+                            "id": "AB01",
+                            "units": 5
+                        },
+                        {
+                            "id": "AB04",
+                            "units": 3
+                        },
+                        {
+                            "id": "AB05",
+                            "units": 9
+                        },
+                        {
+                            "id": "HC01",
+                            "units": 15
+                        }
+                    ]
+                },
+                {
+                    "10/05/20 21:44:17": [
+                        {
+                            "id": "E06",
+                            "units": 3
+                        },
+                        {
+                            "id": "E07",
+                            "units": 2
+                        },
+                        {
+                            "id": "E09",
+                            "units": 4
+                        }
+                    ]
+                },
+                {
+                    "10/05/20 21:55:31": [
+                        {
+                            "id": "L01",
+                            "units": 8
+                        },
+                        {
+                            "id": "D06",
+                            "units": 9
+                        },
+                        {
+                            "id": "D05",
+                            "units": 6
+                        }
+                    ]
+                },
+                {
+                    "10/05/20 22:08:38": [
+                        {
+                            "id": "L04",
+                            "units": 1
+                        },
+                        {
+                            "id": "L05",
+                            "units": 3
+                        },
+                        {
+                            "id": "E03",
+                            "units": 7
+                        },
+                        {
+                            "id": "E04",
+                            "units": 12
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "email": "GERARDO.GUIJARRO@lerma.com",
+            "name": "GERARDO GUIJARRO",
+            "password": "GEGU042",
+            "purchase": [
+                {
+                    "10/05/20 21:35:02": [
+                        {
+                            "id": "AB09",
+                            "units": 12
+                        },
+                        {
+                            "id": "AB04",
+                            "units": 6
+                        },
+                        {
+                            "id": "L05",
+                            "units": 8
+                        },
+                        {
+                            "id": "L06",
+                            "units": 4
+                        }
+                    ]
+                },
+                {
+                    "10/05/20 21:45:00": [
+                        {
+                            "id": "HC05",
+                            "units": 3
+                        },
+                        {
+                            "id": "HC10",
+                            "units": 5
+                        },
+                        {
+                            "id": "HC08",
+                            "units": 8
+                        }
+                    ]
+                },
+                {
+                    "10/05/20 21:56:40": [
+                        {
+                            "id": "HC06",
+                            "units": 2
+                        },
+                        {
+                            "id": "HC09",
+                            "units": 3
+                        },
+                        {
+                            "id": "HC03",
+                            "units": 5
+                        }
+                    ]
+                },
+                {
+                    "10/05/20 22:09:31": [
+                        {
+                            "id": "AB08",
+                            "units": 4
+                        },
+                        {
+                            "id": "L10",
+                            "units": 6
+                        },
+                        {
+                            "id": "E07",
+                            "units": 2
+                        },
+                        {
+                            "id": "E06",
+                            "units": 6
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "email": "ALEJANDRO.HERNANDEZ@lerma.com",
+            "name": "ALEJANDRO HERNANDEZ",
+            "password": "ALHE068",
+            "purchase": [
+                {
+                    "10/05/20 21:36:13": [
+                        {
+                            "id": "AB07",
+                            "units": 7
+                        },
+                        {
+                            "id": "AB08",
+                            "units": 1
+                        },
+                        {
+                            "id": "HC03",
+                            "units": 3
+                        },
+                        {
+                            "id": "HC04",
+                            "units": 4
+                        }
+                    ]
+                },
+                {
+                    "10/05/20 21:45:43": [
+                        {
+                            "id": "D03",
+                            "units": 2
+                        },
+                        {
+                            "id": "D02",
+                            "units": 6
+                        },
+                        {
+                            "id": "AB07",
+                            "units": 5
+                        }
+                    ]
+                },
+                {
+                    "10/05/20 21:57:34": [
+                        {
+                            "id": "E10",
+                            "units": 7
+                        },
+                        {
+                            "id": "E05",
+                            "units": 9
+                        },
+                        {
+                            "id": "AB09",
+                            "units": 3
+                        },
+                        {
+                            "id": "AB10",
+                            "units": 6
+                        }
+                    ]
+                },
+                {
+                    "10/05/20 22:10:33": [
+                        {
+                            "id": "D03",
+                            "units": 2
+                        },
+                        {
+                            "id": "HC10",
+                            "units": 6
+                        },
+                        {
+                            "id": "D04",
+                            "units": 4
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "email": "ISAAC.MORA@lerma.com",
+            "name": "ISAAC MORA",
+            "password": "ISMO031",
+            "purchase": [
+                {
+                    "10/05/20 21:37:25": [
+                        {
+                            "id": "AB03",
+                            "units": 8
+                        },
+                        {
+                            "id": "L03",
+                            "units": 9
+                        },
+                        {
+                            "id": "HC03",
+                            "units": 3
+                        },
+                        {
+                            "id": "HC09",
+                            "units": 5
+                        }
+                    ]
+                },
+                {
+                    "10/05/20 21:46:39": [
+                        {
+                            "id": "D01",
+                            "units": 7
+                        },
+                        {
+                            "id": "D08",
+                            "units": 1
+                        },
+                        {
+                            "id": "D07",
+                            "units": 2
+                        },
+                        {
+                            "id": "D09",
+                            "units": 3
+                        }
+                    ]
+                },
+                {
+                    "10/05/20 21:59:11": [
+                        {
+                            "id": "HC01",
+                            "units": 5
+                        },
+                        {
+                            "id": "HC02",
+                            "units": 6
+                        },
+                        {
+                            "id": "HC05",
+                            "units": 7
+                        }
+                    ]
+                },
+                {
+                    "10/05/20 22:11:34": [
+                        {
+                            "id": "D01",
+                            "units": 7
+                        },
+                        {
+                            "id": "D06",
+                            "units": 9
+                        },
+                        {
+                            "id": "D09",
+                            "units": 5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "email": "JAVIER.GALLEGOS@lerma.com",
+            "name": "JAVIER GALLEGOS",
+            "password": "JAGA033",
+            "purchase": [
+                {
+                    "10/05/20 21:38:33": [
+                        {
+                            "id": "L01",
+                            "units": 4
+                        },
+                        {
+                            "id": "L02",
+                            "units": 14
+                        },
+                        {
+                            "id": "E04",
+                            "units": 5
+                        },
+                        {
+                            "id": "E05",
+                            "units": 13
+                        }
+                    ]
+                },
+                {
+                    "10/05/20 21:48:12": [
+                        {
+                            "id": "D10",
+                            "units": 7
+                        },
+                        {
+                            "id": "D04",
+                            "units": 8
+                        }
+                    ]
+                },
+                {
+                    "10/05/20 22:00:16": [
+                        {
+                            "id": "D08",
+                            "units": 6
+                        },
+                        {
+                            "id": "HC04",
+                            "units": 34
+                        },
+                        {
+                            "id": "E10",
+                            "units": 7
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "email": "JESUS.GARZON@lerma.com",
+            "name": "JESUS GARZON",
+            "password": "JEGA067",
+            "purchase": [
+                {
+                    "10/05/20 21:39:27": [
+                        {
+                            "id": "L07",
+                            "units": 8
+                        },
+                        {
+                            "id": "L08",
+                            "units": 28
+                        },
+                        {
+                            "id": "E01",
+                            "units": 3
+                        },
+                        {
+                            "id": "E06",
+                            "units": 7
+                        }
+                    ]
+                },
+                {
+                    "10/05/20 21:49:07": [
+                        {
+                            "id": "D05",
+                            "units": 5
+                        },
+                        {
+                            "id": "D04",
+                            "units": 4
+                        }
+                    ]
+                },
+                {
+                    "10/05/20 22:01:12": [
+                        {
+                            "id": "E08",
+                            "units": 6
+                        },
+                        {
+                            "id": "E05",
+                            "units": 5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "email": "SERGIO.LOPEZ@lerma.com",
+            "name": "SERGIO LOPEZ",
+            "password": "SELO003",
+            "purchase": [
+                {
+                    "10/05/20 21:40:29": [
+                        {
+                            "id": "E10",
+                            "units": 3
+                        },
+                        {
+                            "id": "E08",
+                            "units": 6
+                        },
+                        {
+                            "id": "HC04",
+                            "units": 8
+                        },
+                        {
+                            "id": "D07",
+                            "units": 7
+                        },
+                        {
+                            "id": "D09",
+                            "units": 4
+                        }
+                    ]
+                },
+                {
+                    "10/05/20 21:49:53": [
+                        {
+                            "id": "L05",
+                            "units": 6
+                        },
+                        {
+                            "id": "E05",
+                            "units": 3
+                        },
+                        {
+                            "id": "HC07",
+                            "units": 1
+                        }
+                    ]
+                },
+                {
+                    "10/05/20 22:02:07": [
+                        {
+                            "id": "D09",
+                            "units": 4
+                        },
+                        {
+                            "id": "D10",
+                            "units": 2
+                        },
+                        {
+                            "id": "D01",
+                            "units": 8
+                        },
+                        {
+                            "id": "HC08",
+                            "units": 9
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "email": "CRUZ.ESPINOZA@lerma.com",
+            "name": "CRUZ ESPINOZA",
+            "password": "CRES023",
+            "purchase": [
+                {
+                    "10/05/20 21:41:26": [
+                        {
+                            "id": "L10",
+                            "units": 9
+                        },
+                        {
+                            "id": "HC05",
+                            "units": 19
+                        },
+                        {
+                            "id": "HC01",
+                            "units": 5
+                        },
+                        {
+                            "id": "HC06",
+                            "units": 3
+                        }
+                    ]
+                },
+                {
+                    "10/05/20 21:50:49": [
+                        {
+                            "id": "HC09",
+                            "units": 2
+                        },
+                        {
+                            "id": "HC10",
+                            "units": 7
+                        },
+                        {
+                            "id": "HC08",
+                            "units": 4
+                        }
+                    ]
+                },
+                {
+                    "10/05/20 22:03:07": [
+                        {
+                            "id": "AB01",
+                            "units": 6
+                        },
+                        {
+                            "id": "AB04",
+                            "units": 5
+                        },
+                        {
+                            "id": "AB05",
+                            "units": 8
+                        },
+                        {
+                            "id": "AB09",
+                            "units": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "email": "LUCERO.MENDEZ@lerma.com",
+            "name": "LUCERO MENDEZ",
+            "password": "LUME032",
+            "purchase": [
+                {
+                    "10/05/20 21:42:28": [
+                        {
+                            "id": "L09",
+                            "units": 4
+                        },
+                        {
+                            "id": "HC02",
+                            "units": 7
+                        },
+                        {
+                            "id": "HC09",
+                            "units": 6
+                        },
+                        {
+                            "id": "HC03",
+                            "units": 4
+                        }
+                    ]
+                },
+                {
+                    "10/05/20 21:52:01": [
+                        {
+                            "id": "D03",
+                            "units": 5
+                        },
+                        {
+                            "id": "D08",
+                            "units": 1
+                        },
+                        {
+                            "id": "D01",
+                            "units": 3
+                        },
+                        {
+                            "id": "HC07",
+                            "units": 2
+                        }
+                    ]
+                },
+                {
+                    "10/05/20 22:04:06": [
+                        {
+                            "id": "L03",
+                            "units": 7
+                        },
+                        {
+                            "id": "L05",
+                            "units": 8
+                        },
+                        {
+                            "id": "HC03",
+                            "units": 9
+                        },
+                        {
+                            "id": "HC09",
+                            "units": 5
+                        }
+                    ]
+                },
+                {
+                    "12/03/2021 15:09:13": [
+                        {
+                            "Cantidad": 1,
+                            "id": "L01"
+                        },
+                        {
+                            "Cantidad": 1,
+                            "id": "D08"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

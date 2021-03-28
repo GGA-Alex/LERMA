@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1237</width>
+    <height>771</height>
+   </rect>
+  </property>
+  <property name="font">
+   <font>
+    <family>Yu Gothic UI</family>
+    <pointsize>8</pointsize>
+    <weight>75</weight>
+    <bold>true</bold>
+    <kerning>true</kerning>
+   </font>
+  </property>
+  <property name="windowTitle">
+   <string>LERMA</string>
+  </property>
+  <widget class="QWidget" name="centralWidget">
+   <layout class="QGridLayout" name="gridLayout">
+    <item row="0" column="0">
+     <widget class="QStackedWidget" name="viewSW">
+      <property name="font">
+       <font>
+        <pointsize>11</pointsize>
+        <weight>50</weight>
+        <bold>false</bold>
+       </font>
+      </property>
+      <property name="currentIndex">
+       <number>0</number>
+      </property>
+      <widget class="QWidget" name="page">
+       <layout class="QGridLayout" name="gridLayout_4">
+        <item row="0" column="0">
+         <widget class="QGroupBox" name="loginGB">
+          <property name="enabled">
+           <bool>false</bool>
+          </property>
+          <property name="maximumSize">
+           <size>
+            <width>200</width>
+            <height>16777215</height>
+           </size>
+          </property>
+          <property name="styleSheet">
+           <string notr="true">:enabled{
+font: 16pt &quot;Yu Gothic UI Semibold&quot;;
+}
+:disabled{
+background-color: rgb(230, 230, 230);
+font:16pt &quot;Yu Gothic UI Semibold&quot;;
+}</string>
+          </property>
+          <property name="title">
+           <string>-Login-</string>
+          </property>
+          <property name="alignment">
+           <set>Qt::AlignCenter</set>
+          </property>
+          <layout class="QGridLayout" name="gridLayout_2">
+           <item row="2" column="0">
+            <widget class="QPushButton" name="loginPB">
+             <property name="enabled">
+              <bool>false</bool>
+             </property>
+             <property name="font">
+              <font>
+               <family>MS Shell Dlg 2</family>
+               <pointsize>14</pointsize>
+               <weight>12</weight>
+               <italic>false</italic>
+               <bold>false</bold>
+              </font>
+             </property>
+             <property name="styleSheet">
+              <string notr="true">:enabled{
+border: 2px solid rgb(0, 120, 187);
+font: 100 14pt &quot;MS Shell Dlg 2&quot;;
+color: rgb(255, 255, 255);
+background-color: rgb(0, 120, 187);
+border-radius: 15px;
+width:100px;
+height:40px;
+}
+:disabled{
+border: 2px solid rgb(203, 203, 203);
+font: 100 14pt &quot;MS Shell Dlg 2&quot;;
+border-radius: 15px;
+color: rgb(255, 255, 255);
+background-color: rgb(203, 203, 203);
+width:100px;
+height:40px
+}</string>
+             </property>
+             <property name="text">
+              <string>Login</string>
+             </property>
+            </widget>
+           </item>
+           <item row="0" column="0">
+            <widget class="QLineEdit" name="usernameLE">
+             <property name="styleSheet">
+              <string notr="true">font: 10.5pt &quot;Yu Gothic UI&quot;;</string>
+             </property>
+             <property name="placeholderText">
+              <string>User</string>
+             </property>
+            </widget>
+           </item>
+           <item row="1" column="0">
+            <widget class="QLineEdit" name="passwordLE">
+             <property name="styleSheet">
+              <string notr="true">font: 10.5pt &quot;Yu Gothic UI&quot;;</string>
+             </property>
+             <property name="echoMode">
+              <enum>QLineEdit::Password</enum>
+             </property>
+             <property name="placeholderText">
+              <string>Password</string>
+             </property>
+            </widget>
+           </item>
+          </layout>
+         </widget>
+        </item>
+        <item row="1" column="0">
+         <widget class="QGroupBox" name="signUpGB">
+          <property name="enabled">
+           <bool>false</bool>
+          </property>
+          <property name="maximumSize">
+           <size>
+            <width>200</width>
+            <height>16777215</height>
+           </size>
+          </property>
+          <property name="font">
+           <font>
+            <family>Yu Gothic UI Semibold</family>
+            <pointsize>16</pointsize>
+            <weight>7</weight>
+            <italic>false</italic>
+            <bold>false</bold>
+           </font>
+          </property>
+          <property name="styleSheet">
+           <string notr="true">:enabled{
+font: 63 16pt &quot;Yu Gothic UI Semibold&quot;;
+}
+:disabled{
+background-color: rgb(230, 230, 230);
+font: 63 16pt &quot;Yu Gothic UI Semibold&quot;;
+}</string>
+          </property>
+          <property name="title">
+           <string>-Sign-up-</string>
+          </property>
+          <property name="alignment">
+           <set>Qt::AlignCenter</set>
+          </property>
+          <layout class="QGridLayout" name="gridLayout_3">
+           <item row="1" column="0">
+            <widget class="QLineEdit" name="newEmailLE">
+             <property name="styleSheet">
+              <string notr="true">font: 10.5pt &quot;Yu Gothic UI&quot;;</string>
+             </property>
+             <property name="placeholderText">
+              <string>email</string>
+             </property>
+            </widget>
+           </item>
+           <item row="0" column="0">
+            <widget class="QLineEdit" name="newUserLE">
+             <property name="styleSheet">
+              <string notr="true">font: 10.5pt &quot;Yu Gothic UI&quot;;</string>
+             </property>
+             <property name="placeholderText">
+              <string>User</string>
+             </property>
+            </widget>
+           </item>
+           <item row="3" column="0">
+            <widget class="QPushButton" name="signUpPB">
+             <property name="enabled">
+              <bool>false</bool>
+             </property>
+             <property name="font">
+              <font>
+               <family>MS Shell Dlg 2</family>
+               <pointsize>14</pointsize>
+               <weight>12</weight>
+               <italic>false</italic>
+               <bold>false</bold>
+              </font>
+             </property>
+             <property name="styleSheet">
+              <string notr="true">:enabled{
+border: 2px solid rgb(0, 120, 187);
+font: 100 14pt &quot;MS Shell Dlg 2&quot;;
+color: rgb(255, 255, 255);
+background-color: rgb(0, 120, 187);
+border-radius: 15px;
+width:100px;
+height:40px;
+}
+:disabled{
+border: 2px solid rgb(203, 203, 203);
+font: 100 14pt &quot;MS Shell Dlg 2&quot;;
+border-radius: 15px;
+color: rgb(255, 255, 255);
+background-color: rgb(203, 203, 203);
+width:100px;
+height:40px
+}</string>
+             </property>
+             <property name="text">
+              <string>Sign Up</string>
+             </property>
+            </widget>
+           </item>
+           <item row="2" column="0">
+            <widget class="QLineEdit" name="newPasswordLE">
+             <property name="styleSheet">
+              <string notr="true">font: 10.5pt &quot;Yu Gothic UI&quot;;</string>
+             </property>
+             <property name="echoMode">
+              <enum>QLineEdit::Password</enum>
+             </property>
+             <property name="placeholderText">
+              <string>Password</string>
+             </property>
+            </widget>
+           </item>
+          </layout>
+         </widget>
+        </item>
+       </layout>
+      </widget>
+      <widget class="QWidget" name="page_2">
+       <layout class="QGridLayout" name="gridLayout_5">
+        <item row="0" column="1">
+         <widget class="QComboBox" name="SortProducts">
+          <item>
+           <property name="text">
+            <string>Ordenar...</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>Ascendente</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>Descendente</string>
+           </property>
+          </item>
+         </widget>
+        </item>
+        <item row="0" column="2">
+         <widget class="QLineEdit" name="Search">
+          <property name="placeholderText">
+           <string>Buscar..</string>
+          </property>
+         </widget>
+        </item>
+        <item row="0" column="0">
+         <widget class="QComboBox" name="Products">
+          <property name="enabled">
+           <bool>true</bool>
+          </property>
+          <property name="editable">
+           <bool>false</bool>
+          </property>
+          <property name="currentText">
+           <string>Todos los Departamentos</string>
+          </property>
+          <item>
+           <property name="text">
+            <string>Todos los Departamentos</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>Alimentos y Bebidas</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>Libros</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>Electronicos</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>Hogar y Cocina</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>Deporte y Aire Libre</string>
+           </property>
+          </item>
+         </widget>
+        </item>
+        <item row="1" column="0" colspan="3">
+         <widget class="QScrollArea" name="scrollArea">
+          <property name="widgetResizable">
+           <bool>true</bool>
+          </property>
+          <widget class="QWidget" name="scrollProducts">
+           <property name="geometry">
+            <rect>
+             <x>0</x>
+             <y>0</y>
+             <width>1199</width>
+             <height>320</height>
+            </rect>
+           </property>
+          </widget>
+         </widget>
+        </item>
+        <item row="2" column="0" colspan="3">
+         <widget class="QScrollArea" name="Recomendaciones">
+          <property name="widgetResizable">
+           <bool>true</bool>
+          </property>
+          <widget class="QWidget" name="scrollRecomendaciones">
+           <property name="geometry">
+            <rect>
+             <x>0</x>
+             <y>0</y>
+             <width>1199</width>
+             <height>320</height>
+            </rect>
+           </property>
+          </widget>
+         </widget>
+        </item>
+       </layout>
+      </widget>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QMenuBar" name="menuBar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>1237</width>
+     <height>21</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QToolBar" name="mainToolBar">
+   <attribute name="toolBarArea">
+    <enum>TopToolBarArea</enum>
+   </attribute>
+   <attribute name="toolBarBreak">
+    <bool>false</bool>
+   </attribute>
+  </widget>
+  <widget class="QStatusBar" name="statusBar"/>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <tabstops>
+  <tabstop>usernameLE</tabstop>
+  <tabstop>passwordLE</tabstop>
+  <tabstop>loginPB</tabstop>
+  <tabstop>newUserLE</tabstop>
+  <tabstop>newEmailLE</tabstop>
+  <tabstop>newPasswordLE</tabstop>
+  <tabstop>signUpPB</tabstop>
+ </tabstops>
+ <resources/>
+ <connections/>
+</ui>
