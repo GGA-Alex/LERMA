@@ -1,3 +1,3 @@
 # LERMA
 
-Proyecto LERMA.
+Proyecto LERMA realizado en QT.
